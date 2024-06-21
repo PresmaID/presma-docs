@@ -1,0 +1,28 @@
+site_name: PRESMA
+site_description: Aplikasi web e-voting PRESMA untuk pemilihan raya (PEMIRA) mahasiswa
+docs_dir: src
+site_dir: docs
+copyright: "&copy; Michael R. Krisnadhi"
+theme:
+  name: material
+  logo: images/logo.png
+  favicon: images/favicon.ico
+  features:
+    - navigation.tabs
+    - search.suggest
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Screenshot: screenshots.md
+  - Arsitektur: architecture.md
+  - Panduan: guide.md
+  - Hubungi: contact.md
+markdown_extensions:
+  - toc:
+      permalink: true
+plugins:
+  - search
+  - glightbox
+extra:
+  generator: false
