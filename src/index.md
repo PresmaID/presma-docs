@@ -12,6 +12,8 @@ hide:
 
 **PRESMA** (nama diambil dari singkatan *Presiden Mahasiswa*) adalah sebuah aplikasi berbasis web yang ditujukan untuk melayani kebutuhan e-voting khususnya di lingkungan perguruan tinggi dalam rangka Pemilihan Raya (PEMIRA) untuk memilih calon presiden BEM periode berikutnya. Tidak hanya digunakan pada saat pemilihan presiden BEM, **PRESMA** juga dapat digunakan untuk memilih ketua Himpunan Mahasiswa Jurusan (HMJ), ketua UKM, ketua DEMA, bahkan ketua angkatan, dan lain sebagainya.
 
+Aplikasi PRESMA dikembangkan secara independen oleh [Michael R. Krisnadhi](https://michaelrk02.my.id/), alumni S1 Informatika Universitas Sebelas Maret angkatan 2020, yang juga pernah menjabat sebagai Koordinator Operasional dan Publikasi Komisi Pemilihan Raya Fakultas MIPA UNS tahun 2021.
+
 ## Mengapa Harus PRESMA?
 
 ![](images/screenshots/Admin_01.png)
